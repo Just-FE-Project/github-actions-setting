@@ -1,7 +1,6 @@
 name: pull-request-workflow
 on: pull_request
 
-
 jobs:
   PR-job:
     runs-on: ubuntu-latest
